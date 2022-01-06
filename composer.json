@@ -1,0 +1,8 @@
+{
+    "name": "rein/telegram-helper",
+    "description": "Simple helper for interacting with telegram using MadelineProto",
+    "type": "library",
+    "authors": [
+        {"name": "Rein", "email": "dev@nuka-cola.ru"}
+    ],
+}
