@@ -5,4 +5,15 @@
     "authors": [
         {"name": "Rein", "email": "dev@nuka-cola.ru"}
     ],
+    "config": {
+        "platform": {
+            "php": "7.4"
+        }
+    },
+    "autoload": {
+        "files": [],
+        "psr-4": {
+            "rein\\": "src/"
+        }
+    }
 }
